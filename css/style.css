@@ -1,0 +1,29 @@
+.myHeader{
+	background-image: url(http://lorempixel.com/400/200);
+	background-size: 100% 100%;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.jumbotron{
+	background-color: #99CCFF;
+}
+img {
+	width:55%;
+	height: auto;
+}
+
+.glyphicon1{
+	color:#3366FF;
+	font-size: 4em;
+}
+
+.gauche{
+	font-size: 2em;
+	border-right:1px solid black;	
+	
+}
+.formation{
+	border-bottom:1px solid black;
+	padding:10px;	
+}
