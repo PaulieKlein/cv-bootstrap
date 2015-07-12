@@ -1,29 +1,40 @@
 .myHeader{
-	background-image: url(http://lorempixel.com/400/200);
+	background-image: url(../images/abstract2.jpg);
 	background-size: 100% 100%;
 	font-size: 1.2em;
 	font-weight: bold;
+	color : white;
 }
 
 .jumbotron{
-	background-color: #99CCFF;
+	background-color: #0099CC;
 }
-img {
-	width:55%;
-	height: auto;
+
+h2{
+	color :#0099CC;
 }
 
 .glyphicon1{
-	color:#3366FF;
+	color:#0099CC;
 	font-size: 4em;
 }
 
-.gauche{
-	font-size: 2em;
-	border-right:1px solid black;	
-	
+
+.resume{
+	font-size: 1.3em;
 }
-.formation{
-	border-bottom:1px solid black;
-	padding:10px;	
+
+.MyBody{
+	background-color: #CCFFFF;
+}
+
+.list-group-item{
+	/*background-color: #00CCFF;*/
+
+	background-color: #99FFCC;
+}
+
+.gauche{
+	font-weight: bold;
+	font-size: 1.2em;
 }
